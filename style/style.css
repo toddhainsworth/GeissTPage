@@ -1,5 +1,5 @@
 body {
-	font-family: "Arial";
+    font-family: "Arial";
     background-color: #E0E0E0;
     width: 80%;
     margin: 0 auto;
@@ -9,5 +9,16 @@ body {
 #logobar {
     border: 1px solid;
     background-color: #ffffff;
+    width: 100%;
+}
+
+table {
+    margin-top: 5px;
+    /* width: 100%; */
+    border: 1px solid;
+    background-color: #ffffff;
+}
+
+.tableWidthChange {
     width: 100%;
 }
